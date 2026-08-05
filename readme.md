@@ -1,86 +1,238 @@
-# Hi, I'm Yash Jain 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Yash Jain
 
-B.Tech Computer Science (Cyber Security) student who builds real software for real people — from securing networks to shipping a production app a business actually uses.
+### Cyber Security Student • Flutter Developer • Full Stack Developer • Researcher
 
+> Building secure software that solves real-world problems.
+
+<p align="left">
+  <a href="mailto:yashjain5108@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/yash-jain-540a9a271/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Jain-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Yash5108">
+    <img src="https://img.shields.io/badge/GitHub-Yash5108-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 B.Tech Computer Science (Cyber Security)  
 📍 Bengaluru, Karnataka, India
-📧 yashjain5108@gmail.com
+
+I'm passionate about **Cyber Security**, **Flutter Development**, and **building software that people actually use.**
+
+Highlights:
+
+- 🛡 Technical Co-Lead — Cyber Security Club (Salus)
+- 📄 Published Research Paper (IRJMETS)
+- 🏆 Cisco Certified Ethical Hacker (CEH)
+- 🚀 Built a production Flutter application used daily by a real business
+- 💡 Love solving real engineering problems with secure architectures
 
 ---
 
-## About Me
+# 🚀 Featured Projects
 
-- 🎓 B.Tech CSE (Cyber Security), Jain (Deemed-to-be University), Bengaluru — Current CGPA 7.7/10
-- 🎓 Diploma in Computer Engineering, Dr. D. Y. Patil Polytechnic, Kolhapur — 85% (Grade A+)
-- 🛡️ Technical Co-Lead, Cyber Security Club (Salus)
-- 🏆 Certified Ethical Hacker (CEH) — Cisco Networking Academy
-- 📄 Co-author, published research paper on a No-Code Website Builder (IRJMETS)
-- 🧪 Hands-on, iterative builder — I test on physical devices, chase down exact errors, and iterate fast
+## 🛍️ Yash Creations
+Production Flutter application used by a wholesale jewellery manufacturer.
 
----
+**Tech**
 
-## 🚀 Featured Projects
+`Flutter` `Riverpod` `Drift` `SQLite` `go_router`
 
-### Yash Creations — Offline Shop Management App
-A Flutter-based offline shop management app built solo for a wholesale imitation jewellery manufacturing business — already in daily use by a real customer on a tablet.
-- **Stack:** Flutter, Drift (SQLite), Riverpod, go_router
-- **Highlights:** party ledgers with custom pricing, sales/invoicing with PDF generation, raw materials & BOM costing (count or weight based), activity logs, data export/import, GitHub Actions CI/CD with signed APK releases
+### Features
 
-### NeuroLearn — Biometric Focus-Tracking Education Platform
-A group engineering project building a platform that reads student focus in real time and adapts learning content accordingly.
-- **Stack:** Node/Express + SQLite backend, Python ML pipeline (pandas, scikit-learn, XGBoost, imbalanced-learn), React dashboard, MediaPipe-based facial biomarker extraction (EAR/MAR/gaze/blendshapes)
-- **Highlights:** real-time telemetry logging, LLM-based text scaffolding, attention-state classification & abandonment prediction (trained on OULAD and ETDD70), live focus meter with a fatigue-triggered micro-break modal
-
-### Secure Local NAS Server (Python)
-A lightweight, secure NAS server for local network file sharing.
-- HTTPS/TLS 1.2+ with self-signed certs, SHA-256 password hashing, CSRF protection, strict rate limiting, security headers, structured audit logging, and safe handling of large uploads with isolated system directories.
-
-### No-Code Website Builder (Capstone Project)
-A drag-and-drop website builder built with React.js, focused on secure session handling and front-end state persistence — later written up as a published research paper.
+- 📦 Inventory Management
+- 🧾 GST Invoicing
+- 📄 PDF Bills
+- 💰 Party Ledgers
+- 🧮 BOM Costing
+- 📊 Activity Logs
+- 🔄 Backup & Restore
+- ⚙ GitHub Actions CI/CD
 
 ---
 
-## 🛠️ Skills
+## 🧠 NeuroLearn
 
-**Cybersecurity & Security Ops:** Vulnerability Assessment, Threat & Risk Analysis, OWASP Top 10, Network Security, Ethical Hacking, Security Hardening, HTTPS/TLS, Cryptography, SIEM Basics
-**Security Tools:** Nmap, Wireshark, Metasploit, Linux Terminal, Git, GitHub
-**OS & Networking:** Kali Linux, Ubuntu, TCP/IP, Secure LAN Architectures, Threaded Servers
-**Languages & Scripting:** Python, C, C++, JavaScript, Dart, Bash
-**Security Mechanisms:** CSRF Protection, Rate Limiting, SHA-256 Hashing, Audit Logging, CSP, HSTS, X-Frame-Options
-**Frameworks & Tools:** Flutter, React.js, React Fiber, Gemini API, LLM Tooling
+AI-powered adaptive education platform that detects student focus using biometric signals.
 
----
+**Tech**
 
-## 💼 Experience
+`React`
+`Node.js`
+`Python`
+`MediaPipe`
+`XGBoost`
+`SQLite`
 
-**Application Developer — Yash Creations**, Kolhapur · *Jun 2026 – Present*
-Designing and maintaining a cross-platform hybrid app; owns deployment setup, core architecture, and maintenance.
+### Features
 
-**Full Stack Engineer Intern — Val-Ed Initiatives**, Bengaluru · *Mar 2026 – May 2026*
-Built web applications, contributed to code audits and UI/UX refinements in a full-stack team.
-
-**Technical Co-Lead — Cyber Security Club (Salus)**, Jain University · *Sep 2025 – Present*
-Leads workshops on cybersecurity, GenAI, and agentic AI; reviews code and architecture for secure integration.
-
----
-
-## 🏆 Hackathons & Awards
-
-- 🥇 **1st Place** — Rezonix Researchthon 2025 (ZIGBEE Club, FET-JU): IoT + Cybersecurity solution backed by two research reports
-- 🥈 **2nd Place** — Inceptrix National Level Hackathon 2026: ranked 2nd of 600+ teams in a 24-hour sprint
-- 🥈 **Runner-Up** — HackVerse, TechFusion 2025 (DSATM): 24-hour sprint against 170+ teams
-- 🥉 **3rd Place** — Cloudathon, Sri Eshwar College of Engineering, Coimbatore
+- 👀 Eye & Face Tracking
+- 📈 Attention Prediction
+- 🤖 LLM Learning Assistant
+- 📊 Live Analytics Dashboard
+- 😴 Fatigue Detection
 
 ---
 
-## 📚 Certifications & Training
+## 🔐 Secure Local NAS Server
 
-- Certified Ethical Hacker (CEH) — Cisco Networking Academy
-- Advanced AI & Security Workshops, Open Source India (OSI 2025): Command-Line Mastery of Gemini; Building Agentic Applications with Anthropic in Snowflake
+A secure Python NAS server for LAN environments.
+
+### Security Features
+
+- HTTPS/TLS
+- SHA-256 Authentication
+- Rate Limiting
+- CSRF Protection
+- Security Headers
+- Audit Logging
+- Secure File Handling
 
 ---
 
-## 📫 Connect
+## 🌐 No-Code Website Builder
 
-- **Email:** yashjain5108@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/yash-jain-540a9a271/
-- **GitHub:** https://github.com/Yash5108
+Capstone project with drag-and-drop editing.
+
+- React
+- Secure Session Handling
+- Frontend State Persistence
+
+Published later as a research paper.
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+### Frameworks
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Riverpod](https://img.shields.io/badge/Riverpod-6C63FF?style=flat)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite)
+
+### Cyber Security
+
+- OWASP Top 10
+- Network Security
+- Vulnerability Assessment
+- Ethical Hacking
+- Threat Analysis
+- HTTPS/TLS
+- Cryptography
+- SIEM Basics
+
+### Tools
+
+Git • GitHub • Kali Linux • Ubuntu • Wireshark • Nmap • Metasploit
+
+---
+
+# 💼 Experience
+
+### Application Developer
+**Yash Creations**
+
+> Jun 2026 – Present
+
+Developing and maintaining a production Flutter application including architecture, deployment, CI/CD and long-term maintenance.
+
+---
+
+### Full Stack Engineer Intern
+**Val-Ed Initiatives**
+
+> Mar 2026 – May 2026
+
+Worked on full-stack applications, UI improvements and secure code reviews.
+
+---
+
+### Technical Co-Lead
+**Cyber Security Club (Salus)**
+
+> Sep 2025 – Present
+
+Conduct workshops on Cyber Security, Generative AI and Agentic AI while mentoring student developers.
+
+---
+
+# 🏆 Achievements
+
+🥇 1st Place — Rezonix Researchthon 2025
+
+🥈 2nd Place — Inceptrix National Hackathon 2026 (600+ Teams)
+
+🥈 Runner-Up — HackVerse 2025 (170+ Teams)
+
+🥉 3rd Place — Cloudathon, Sri Eshwar College of Engineering
+
+---
+
+# 📜 Certifications
+
+✔ Cisco Certified Ethical Hacker (CEH)
+
+✔ Open Source India 2025
+
+- Command-Line Mastery of Gemini
+- Building Agentic Applications with Anthropic
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yash5108&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash5108&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash5108&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+- Digital Forensics
+- AI for Cyber Security
+- Secure Flutter Architecture
+- Agentic AI
+- Malware Analysis
+- Reverse Engineering
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email:** yashjain5108@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/yash-jain-540a9a271/
+
+💻 **GitHub:**  
+https://github.com/Yash5108
+
+---
+
+<p align="center">
+
+### "Build. Break. Secure. Repeat."
+
+</p>
