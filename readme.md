@@ -232,8 +232,8 @@ Capstone project with drag-and-drop editing, published as a research paper. [Sou
   - Self-supervised, real-time GNSS spoofing detector for Android combining physics-based detection, self-supervised learning and conformal prediction
   - Simulation: raises recall on stealthy carry-off attacks from 3% to 52% and keeps the false-alarm rate near the target
   - Keywords: GNSS security, sensor fusion, conformal prediction, on-device ML
-- **Lightweight Video-Frame Encryption for Secure Multimedia Transmission** *(working title)*
-  - Multimedia encryption paper that grew out of the Rezonix Researchthon 2025 report
+- **Multimedia Audio Encryption** *(working title)*
+  - Audio encryption paper that grew out of the Rezonix Researchthon 2025 report
 
 ### In Progress
 
